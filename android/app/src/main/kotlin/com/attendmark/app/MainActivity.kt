@@ -1,5 +1,6 @@
-package com.example.attend_mark
+package com.attendmark.app
 
 import io.flutter.embedding.android.FlutterActivity
 
 class MainActivity : FlutterActivity()
+
